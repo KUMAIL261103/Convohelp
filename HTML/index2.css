@@ -1,0 +1,92 @@
+body{
+    background-color: #F8EDE3;
+    background-color:rgb(250, 213, 169) ;
+}
+.head{
+    display: inline-block;
+    
+    width:100vw;
+    margin-top: 3vw;
+}
+#name{
+    display:inline;
+    margin-left: 10vw;
+    font-size: 60px;
+    /* color: #737373; */
+    color:#7D6E83;
+    
+}
+.headbutton{
+    /* display:inline; */
+    position:relative;
+    left:45vw;
+    display: inline-block;
+  
+}
+.headset{
+    display:inline-block;
+    margin-left: 85vw;
+}
+.headbutt_css{
+    
+    background-color: antiquewhite;
+    background-color: #D0B8A8;
+    color: #7D6E83;
+    height:3vw;
+    width:8vw;
+    font-size: 17px;
+    border-radius: 20px;
+    
+}
+.headbutt_css:hover{
+    background-color:#7D6E83 ;
+    color:antiquewhite;
+}
+.body{
+   
+    display: inline-block;
+}
+
+.content{
+
+    margin-left: 5vw;
+    font-size: 20px;
+    color:#7D6E83;
+    
+}
+#left{
+    margin-bottom: 10vw;
+}
+#right{
+    padding-left: 20vw;
+    padding-top: 8vw;
+}
+.getbutton{
+    margin-left: 12vw;
+    margin-top: 4vw;
+    
+}
+.getbut{
+    padding-top: 10px;
+}
+.button_css{
+    
+    
+    background-color: antiquewhite;
+    background-color: #D0B8A8;
+    color: #7D6E83;
+    height: 4vw;
+    width: 15vw;
+    border-radius: 25px;
+    font-size: 22px;
+
+}
+.button_css:hover{
+    background-color: #7D6E83;
+    color: antiquewhite;
+
+}
+.image{
+    box-shadow: 5px 5px 15px #7D6E83;
+    border-radius: 25px;
+}
