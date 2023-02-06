@@ -1,6 +1,7 @@
 * {
     margin: 0px;
     padding: 0px;
+    
 }
 body{
     background-color: #F8EDE3;
@@ -10,7 +11,7 @@ body{
     display: inline-block;
     
     width:100vw;
-    margin-top: 3vw;
+    margin-top: 1vw;
 }
 #name{
     display:inline;
@@ -18,12 +19,14 @@ body{
     font-size: 80px;
     /* color: #737373; */
     color:#4d4350;
+    font-family: cursive;
     
 }
 .headbutton{
     /* display:inline; */
     position:relative;
     left:40vw;
+    margin-left: 0.05vw;
     display: inline-block;
   
 }
@@ -31,11 +34,15 @@ body{
     display:inline-block;
     margin-left: 85vw;
 }
+.head_buttG{
+    display:inline;
+    left:50vw;
+}
 .headbutt_css{
     
     background-color: antiquewhite;
     background-color: #D0B8A8;
-    color: #4d4350;
+    color: #3a383b;
     height:3vw;
     width:8vw;
     font-size: 17px;
@@ -52,14 +59,17 @@ body{
 }
 
 .content{
-
+    padding-top: 5vw;
     margin-left: 5vw;
-    font-size: 20px;
+    font-size: 25px;
     color:#4d4350;
+    font-family: cursive;
     
 }
 #left{
     margin-bottom: 10vw;
+    font-family: cursive;
+    
 }
 #right{
     padding-left: 20vw;
@@ -67,7 +77,7 @@ body{
 }
 .getbutton{
     margin-left: 12vw;
-    margin-top: 4vw;
+    margin-top: 2vw;
     
 }
 .getbut{
@@ -78,9 +88,9 @@ body{
     
     background-color: antiquewhite;
     background-color: #D0B8A8;
-    color: #4d4350;
+    color: #3a383b;
     height: 4vw;
-    width: 15vw;
+    width: 20vw;
     border-radius: 25px;
     font-size: 22px;
 
